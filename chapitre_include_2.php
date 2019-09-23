@@ -21,7 +21,7 @@
 </nav> <!-- fermeture navbar -->
 
 <div id="contenu_1">
-	Ici mon bloc principal du fichier php
+	Ici mon bloc 1
 </div> <!-- fermeture contenu_1 -->
 
 <div id="contenu_2">
